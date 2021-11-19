@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/hackdoze01/hackdoze/static/css/main.c979316a.chunk.css",
+    "main.js": "/hackdoze01/hackdoze/static/js/main.f50ae2af.chunk.js",
+    "main.js.map": "/hackdoze01/hackdoze/static/js/main.f50ae2af.chunk.js.map",
+    "runtime-main.js": "/hackdoze01/hackdoze/static/js/runtime-main.b19d8065.js",
+    "runtime-main.js.map": "/hackdoze01/hackdoze/static/js/runtime-main.b19d8065.js.map",
+    "static/css/2.383c0125.chunk.css": "/hackdoze01/hackdoze/static/css/2.383c0125.chunk.css",
+    "static/js/2.1fbc91eb.chunk.js": "/hackdoze01/hackdoze/static/js/2.1fbc91eb.chunk.js",
+    "static/js/2.1fbc91eb.chunk.js.map": "/hackdoze01/hackdoze/static/js/2.1fbc91eb.chunk.js.map",
+    "static/js/3.febd190c.chunk.js": "/hackdoze01/hackdoze/static/js/3.febd190c.chunk.js",
+    "static/js/3.febd190c.chunk.js.map": "/hackdoze01/hackdoze/static/js/3.febd190c.chunk.js.map",
+    "index.html": "/hackdoze01/hackdoze/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/hackdoze01/hackdoze/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.c979316a.chunk.css.map": "/hackdoze01/hackdoze/static/css/main.c979316a.chunk.css.map",
+    "static/js/2.1fbc91eb.chunk.js.LICENSE.txt": "/hackdoze01/hackdoze/static/js/2.1fbc91eb.chunk.js.LICENSE.txt",
+    "static/media/Success.css": "/hackdoze01/hackdoze/static/media/21469415.9592c9de.jpg",
+    "static/media/index.css": "/hackdoze01/hackdoze/static/media/ROCK.d4c47d23.TTF",
+    "static/media/loading1.css": "/hackdoze01/hackdoze/static/media/bg.7a330923.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b19d8065.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.1fbc91eb.chunk.js",
+    "static/css/main.c979316a.chunk.css",
+    "static/js/main.f50ae2af.chunk.js"
+  ]
+}
